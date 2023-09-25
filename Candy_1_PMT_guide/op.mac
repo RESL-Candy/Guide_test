@@ -1,0 +1,11 @@
+
+/gps/particle opticalphoton
+/gps/pos/type Volume
+/gps/pos/confine physical_water
+
+/gps/ang/type iso
+/gps/ene/type Mono
+/gps/ene/mono 3 eV
+
+
+
